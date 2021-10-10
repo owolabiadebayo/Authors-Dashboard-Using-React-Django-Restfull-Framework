@@ -1,0 +1,2 @@
+corsheaders
+django
